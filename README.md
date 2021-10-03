@@ -33,13 +33,16 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 
 ##  Summary  and Recommendations
 
-The graph below show weekly fares of each city types from January 2019 to April  2019. Fares in Urban cities hovered between $1,500 - $2,500, with resistance at $2,500. Suburban city fares were between $500 - $1,500. Lastly, Rural city fares remained between $0 - $500.
+The graph below show weekly fares of each city types from January 2019 to April  2019. 
+-  Urban cities Fares are between $1,500 - $2,500, with resistance at $2,500.
+- Suburban city fares were between $500 - $1,500. 
+- Rural city fares remained between $0 - $500.
 
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-In this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. More drivers are needed to service Rural cities to lower fare prices in these areas. As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity.
-
-![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig4.png)
+In this analysis, the graph below illustrates that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. More drivers are needed to service Rural cities to lower fare prices in these areas. As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity.
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig3.png)
+
+![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig4.png)
