@@ -11,7 +11,7 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 
 ## Results 
 
-  This analysis have three caregories of  city types.Urban ,Suburban and Rural.
+  This analysis have three caregories of  city types.They are Urban ,Suburban and Rural.
 
  ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Average%20city%20type.png)
   
