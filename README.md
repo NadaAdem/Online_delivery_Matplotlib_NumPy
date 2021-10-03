@@ -11,7 +11,8 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 
 ## Results 
 
-  This analysis have three caregories of  city types.They are Urban ,Suburban and Rural.
+  This analysis have three caregories of  city types ( Urban ,Suburban and Rural) 
+  The below table  provided  their  total number of rides , their  total number of  drivers,their sum of the fares ,their  average fare per ride ,their average fare per driver .
 
  ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Average%20city%20type.png)
   
@@ -27,8 +28,8 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
   
  
 - Urban cities are  62.7% of the total fares. It is found that Urban cities have thirty times more drivers than Rural cities.
-- Suburban Cities 
-- Rural Cities 
+- Suburban Cities are 30.5% of total fares .it is balanced and sustainable between others.
+- Rural Cities are lowest as total fares which is 6.8%.
 
 
 ##  Summary  and Recommendations
@@ -46,3 +47,5 @@ In this analysis, the graph below illustrates that Rural cities have disproporti
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig4.png)
+
+However, adding more drivers to PyBer must be a balancing act. If there is an oversupply of drivers, such as the case in Urban cities, then the average driver fares will plummet. Low average fares may result in drivers leaving PyBer's platform or joining competitors. Closing the service gap in Rural areas would increase PyBer's total ride count and it is a vital strategy going forward. Furthermore, it is critical to maintain high average driver fares, which will motivate drivers to stay on PyBer. To address the low average fares per driver in Urban areas, it is recommended to increase the total ride count with marketing solutions, such as user discounts and targeted advertisements to increase demand and brand awareness. With these strategies in place, PyBer will be positioned to grow its current business and expand into new markets as well.
