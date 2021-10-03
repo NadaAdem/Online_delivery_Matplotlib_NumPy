@@ -38,7 +38,8 @@ The graph below show weekly fares of each city types from January 2019 to April 
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+In this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. More drivers are needed to service Rural cities to lower fare prices in these areas. As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity.
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
-
+![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/Fig3.png)
