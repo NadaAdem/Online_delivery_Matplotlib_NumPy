@@ -32,7 +32,8 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 - Rural Cities are lowest as total fares which is 6.8%.
 
 
-##  Summary  and Recommendations
+##  Summary and Recommendations
+
 
 The graph below show weekly fares of each city types from January 2019 to April  2019. 
 - Urban cities Fares are between $1,500 - $2,500, with resistance at $2,500.
@@ -41,6 +42,7 @@ The graph below show weekly fares of each city types from January 2019 to April 
 
 
 ![This is an image](https://github.com/NadaAdem/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 In this analysis, the graph below illustrates that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities.
 These high Rural prices may be offputting to  customers and new users from trying PyBer. 
